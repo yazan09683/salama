@@ -1,2 +1,0 @@
-# salama
-example
